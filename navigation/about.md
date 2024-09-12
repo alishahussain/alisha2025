@@ -48,7 +48,7 @@ I have a passion for computing and robotics, and I've been exploring these field
 
 <h3 style="text-align:center;">Connect with Me!</h3>
 <div style="text-align:center;">
-    <a href="https://spotify.com/yourplaylist" target="_blank">🎵 Follow my Spotify Playlist</a>
+    <a href="https://open.spotify.com/user/alishahussain1229?si=7ecc9cd960be46b7" target="_blank">🎵 Follow my Spotify Playlist</a>
 </div>
 
 <style>

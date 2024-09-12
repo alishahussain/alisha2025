@@ -376,3 +376,22 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #4c6649;
+  background-image: linear-gradient(120deg, #6a8a69, #4c6649); // Replace gradient colors with shades of #4c6649
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}

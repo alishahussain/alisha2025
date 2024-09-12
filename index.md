@@ -7,7 +7,7 @@ hide: true
 
 <h1 style="text-align:center; color:green; #4e804f;">☆ Alisha's Blog ☆</h1>
 
-<h3 style="text-align:center;">Hello! I'm Alisha Hussain, a Junior at Del Norte High School. Welcome to my blog where I share my favorite things and interests!</h3>
+<h3 style="text-align:center;">Hello! I'm Alisha Hussain, a Junior at Del Norte High School. Welcome to my AP Computer Science A blog where I share my favorite things and interests with code!</h3>
 
 <style>
     .hobby-container {
